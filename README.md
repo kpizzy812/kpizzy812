@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Kpeezy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Привет%2C%20я%20Дмитрий&descSize=18&descAlignY=52&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I'm%20Kpeezy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Дмитрий%20%7C%20Saint%20Petersburg&descSize=18&descAlignY=52&descAlign=50"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer;Telegram+Mini+Apps+%26+Bots;Crypto+Trading+Platforms;Web3+%7C+Solana+%7C+TON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=100&lines=AI+Agent+Systems+%26+Autonomous+Pipelines;Self-Hosted+PaaS+Platform+Builder;Web3+GameFi+on+BSC+%7C+Solidity;Full-Stack+%7C+Python+%C2%B7+TS+%C2%B7+PHP+%C2%B7+Go" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,21 +17,21 @@
 <td width="50%">
 
 **EN**
-- 🤖 Building **Telegram Mini Apps & Bots**
-- 📈 Developing **Crypto Trading Platforms**
-- ⛓️ Smart Contracts on **Solana & TON**
-- 🧠 AI integrations with **OpenAI**
-- 🤝 **Open for freelance projects**
+- 🤖 Building **AI agent systems** — digital twins, autonomous coding pipelines, content & recruiting agents
+- 🏗️ Developing **Saturn** — self-hosted PaaS platform (Laravel + React + Go CLI)
+- ⛓️ Smart contracts on **BSC** — on-chain games with deflationary economics
+- 📈 Production-grade **Telegram automation** — lead funnels, channel agents, engagement bots
+- 🎬 AI-powered **video pipelines** — script → TTS → visuals → assembly
 
 </td>
 <td width="50%">
 
 **RU**
-- 🤖 Разрабатываю **Telegram Mini Apps и ботов**
-- 📈 Создаю **Крипто-трейдинг платформы**
-- ⛓️ Смарт-контракты на **Solana и TON**
-- 🧠 AI интеграции с **OpenAI**
-- 🤝 **Открыт для фриланс проектов**
+- 🤖 Строю **AI-агентов** — цифровые двойники, автономные кодинг-пайплайны, контент и рекрутинг агенты
+- 🏗️ Разрабатываю **Saturn** — self-hosted PaaS платформу (Laravel + React + Go CLI)
+- ⛓️ Смарт-контракты на **BSC** — on-chain игры с дефляционной экономикой
+- 📈 Production-grade **Telegram автоматизация** — лид-воронки, канал-агенты, энгейджмент боты
+- 🎬 AI-powered **видео пайплайны** — скрипт → TTS → визуал → сборка
 
 </td>
 </tr>
@@ -42,46 +42,55 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,nextjs,react,ts,tailwind,solana,rust&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,php,go,solidity,react,nextjs,laravel,fastapi,docker&theme=dark&perline=10" />
 </p>
 
 <details>
-<summary><b>More details | Подробнее</b></summary>
+<summary><b>Full stack breakdown | Подробнее</b></summary>
 
 <br>
 
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_18/19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
-**Database**
+**AI & Agents**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logoColor=white)
 
 **Blockchain**
 
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-5C4EE5?style=for-the-badge&logo=anchor&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![BSC](https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-1C1C1C?style=for-the-badge&logoColor=white)
 
-**AI**
+**Telegram**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Aiogram](https://img.shields.io/badge/aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+
+**Database & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 </details>
 
@@ -93,55 +102,78 @@
 <tr>
 <td width="50%">
 
-### <a href="https://github.com/kpizzy812/syntra-trade-consultant">🤖 SyntraAI</a>
-AI-powered crypto trading assistant with unique sarcastic personality. Real-time market data via OpenAI Function Calling.
+### 🏗️ Saturn Platform
+Self-hosted PaaS — альтернатива Heroku/Vercel на своей инфраструктуре. 318 шаблонов сервисов, деплой через Git, WebSocket мониторинг, RBAC, бэкапы.
 
-**Stack:** `Python` `FastAPI` `Next.js` `GPT-4` `PostgreSQL`
+**94 моделей** · **89+ API endpoints** · **137 страниц UI** · **Go CLI + TUI**
 
-<a href="https://ai.syntratrade.xyz">
-  <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square" alt="Live Demo">
-</a>
-<a href="https://t.me/SyntraAI_bot?startapp">
-  <img src="https://img.shields.io/badge/Telegram-Mini_App-blue?style=flat-square&logo=telegram" alt="TMA">
-</a>
+`Laravel 12` `React 18` `TypeScript` `Go` `PostgreSQL` `Traefik` `Docker`
 
 </td>
 <td width="50%">
 
-### <a href="https://github.com/kpizzy812/syntra-trade">💰 Syntra Trade</a>
-Full-stack investment platform with Telegram Mini App. Automated yield distribution & AI trading simulation.
+### 🤖 Twin Workspace
+AI Digital Twin — автономный мульти-агент с персональностью. 6 агентов (Twitter, Telegram, контент, маркет-аналитика, community, dev). Векторная память, ежедневные сессии.
 
-**Stack:** `Python` `FastAPI` `Next.js` `aiogram` `PostgreSQL`
-
-<a href="https://syntratrade.xyz">
-  <img src="https://img.shields.io/badge/Live-Demo-success?style=flat-square" alt="Live Demo">
-</a>
+`Python` `Claude` `aiogram` `Telethon` `Vector Memory` `Cron Agents`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <a href="https://github.com/kpizzy812/LeadMagnetV2">🎯 LeadMagnet V2</a>
-Production-grade Telegram automation for lead management. 9 AI personas, 5-stage sales funnel, smart session pool.
+### ⛓️ BNB City
+Trustless on-chain изометрический город на BSC. Один контракт ~1170 строк Solidity. Adaptive rate, 7 дефляционных эпох, маркетплейс, реферальная система.
 
-**Stack:** `Python` `Telethon` `aiogram` `Next.js` `PostgreSQL`
+`Solidity` `Hardhat` `Foundry` `NestJS` `Next.js 16` `React 19`
 
 </td>
 <td width="50%">
 
-### <a href="https://github.com/kpizzy812/pixelpets">🐾 Pixel Pets</a>
-Telegram Mini App — NFT-style economic game. Pet training, evolution system, 5-level referrals. 7 languages.
+### 🧠 Bruh Coding Agent
+Автономный AI кодинг-пайплайн — CLI + Telegram бот. 9 специализированных агентов, MCP серверы, deliberation engine, бюджетирование токенов.
 
-**Stack:** `Next.js 16` `React 19` `FastAPI` `PostgreSQL`
+`TypeScript` `Claude` `MCP` `9 Agents` `Telegram Bot`
 
-<a href="https://t.me/Pixel_PetsBot?startapp">
-  <img src="https://img.shields.io/badge/Play-Now-blue?style=flat-square&logo=telegram" alt="Play">
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 LeadMagnet V2
+Production Telegram автоматизация для лидогенерации. 9 AI-персон, 5-ступенчатая воронка, пул сессий с health scoring, proxy rotation.
+
+**7M+ строк Python** · **15+ типов обработки ошибок Telegram**
+
+`Python` `Telethon` `aiogram` `GPT-4` `PostgreSQL` `Redis` `Next.js`
+
+</td>
+<td width="50%">
+
+### 🎬 Youtuber Pipeline
+AI видео-конвейер: 8 шагов от сбора данных до готового ролика. Remotion для сборки видео, review gates, шорты.
+
+`COLLECT → ANALYZE → SCRIPT → TTS → VISUALS → THUMBNAIL → ASSEMBLE → SHORTS`
+
+`Python` `FastAPI` `Next.js` `Remotion` `Claude`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More projects | Ещё проекты</b></summary>
+
+<br>
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| **OpenClaw Agents** | Recruiting + PM агенты. hh.ru парсинг, Yougile синхронизация, два дашборда | `Python` `FastAPI` `Next.js` `OpenClaw` |
+| **MediaAgent** | Контент-пайплайн для BNB City: Twitter + Telegram постинг через AI | `OpenClaw` `Claude` `Composio MCP` |
+| **ChannelAgent** | Telegram контент-агрегатор с GPT-4 Vision анализом и рестайлингом | `Python` `Telethon` `aiogram` `GPT-4` |
+| **Fortune City** | Крипто тапалка с тирами, wheel of fortune, admin panel | `TypeScript` `NestJS` `Next.js` `Prisma` `Rust` |
+
+</details>
 
 ---
 
@@ -188,4 +220,3 @@ Telegram Mini App — NFT-style economic game. Pet training, evolution system, 5
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
-
